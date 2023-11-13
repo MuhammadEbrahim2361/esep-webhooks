@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/capahmed/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
+    "/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/EsepWebhook.csproj": {}
   },
   "projects": {
-    "/Users/capahmed/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+    "/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/capahmed/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectUniqueName": "/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "/Users/capahmed/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectPath": "/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/EsepWebhook.csproj",
         "packagesPath": "/Users/capahmed/.nuget/packages/",
-        "outputPath": "/Users/capahmed/EsepWebhook/src/EsepWebhook/obj/",
+        "outputPath": "/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/capahmed/.nuget/NuGet/NuGet.Config"
@@ -60,15 +60,7 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[6.0.24, 6.0.24]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Crossgen2.osx-arm64",
-              "version": "[6.0.24, 6.0.24]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
               "version": "[6.0.24, 6.0.24]"
             }
           ],
@@ -78,11 +70,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }
