@@ -1,0 +1,7 @@
+/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/capahmed/Documents/University Work/Fall 2023/CIS 4930 Enterprise/esep/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll
